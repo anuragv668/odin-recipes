@@ -6,3 +6,12 @@ body {
 .aligncenter {
   text-align: center;
 }
+.navL {
+  width: 500px;
+  margin: 100px auto;
+}
+.links {
+  font-size: 25px;
+  margin: 30px;
+  padding-left: 80px;
+}
